@@ -1,0 +1,41 @@
+{
+  "timestamp": "2026-01-18T17:23:39.140178",
+  "timeline": [
+    {
+      "time": "17:23:39",
+      "subreddit": "productivity",
+      "action": "posted",
+      "delay_recommended": 10
+    },
+    {
+      "time": "17:23:39",
+      "subreddit": "macapps",
+      "action": "blocked",
+      "reason": "Too soon (need 10 min, only 0.0 min passed)"
+    },
+    {
+      "time": "17:23:39",
+      "subreddit": "productivity",
+      "action": "blocked",
+      "reason": "Too soon (need 10 min, only 0.0 min passed)"
+    },
+    {
+      "time": "17:23:39",
+      "subreddit": "macapps",
+      "action": "blocked",
+      "reason": "Too soon (need 10 min, only 0.0 min passed)"
+    },
+    {
+      "time": "17:23:39",
+      "subreddit": "productivity",
+      "action": "blocked",
+      "reason": "Too soon (need 10 min, only 0.0 min passed)"
+    }
+  ],
+  "queue_status": {
+    "queue_size": 0,
+    "actions": [],
+    "last_action": "2026-01-18T17:23:39.139791",
+    "consecutive_count": 1
+  }
+}

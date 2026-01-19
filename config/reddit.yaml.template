@@ -1,0 +1,26 @@
+# Reddit API Configuration Template
+# Copy this file to reddit.yaml and fill in your credentials
+
+reddit:
+  client_id: "YOUR_CLIENT_ID_HERE"
+  client_secret: "YOUR_CLIENT_SECRET_HERE"
+  username: "YOUR_REDDIT_USERNAME"
+  password: "YOUR_REDDIT_PASSWORD"
+  user_agent: "Maven CMO Agent v1.0 by /u/YOUR_USERNAME"
+
+# Rate limiting settings
+rate_limits:
+  max_posts_per_subreddit_per_day: 5
+  min_delay_between_posts_seconds: 600  # 10 minutes
+  max_delay_between_posts_seconds: 7200  # 2 hours
+
+# How to get Reddit API credentials:
+# 1. Go to https://www.reddit.com/prefs/apps
+# 2. Click "create another app..." at the bottom
+# 3. Fill in:
+#    - name: Maven CMO Agent
+#    - type: script
+#    - redirect uri: http://localhost:8080
+# 4. Click "create app"
+# 5. Your client_id is the string under "personal use script"
+# 6. Your client_secret is shown as "secret"

@@ -1,0 +1,43 @@
+{
+  "timestamp": "2026-01-18T17:23:01.600354",
+  "results": [
+    {
+      "post_title": "Introducing FreeVoice Reader for Apple Silicon \u2013 Your Voice, Instantly Typed",
+      "mentioned_tools": [
+        "rev",
+        "freevoice",
+        "whisper"
+      ],
+      "unique_angles_suggested": [
+        "Focus on speed/performance (not mentioned yet)",
+        "Focus on privacy/security (not mentioned yet)",
+        "Focus on ease of use (not mentioned yet)"
+      ]
+    },
+    {
+      "post_title": "Ottex AI - native macOS app to type with your voice (Free with BYOK)",
+      "mentioned_tools": [
+        "whisper",
+        "rev"
+      ],
+      "unique_angles_suggested": [
+        "Focus on speed/performance (not mentioned yet)",
+        "Focus on cost/pricing (not mentioned yet)",
+        "Focus on privacy/security (not mentioned yet)"
+      ]
+    },
+    {
+      "post_title": "[Launch] Yes, another WisprFlow alternative called Pipit (but completely free)",
+      "mentioned_tools": [
+        "rev",
+        "pipit",
+        "whisper"
+      ],
+      "unique_angles_suggested": [
+        "Focus on speed/performance (not mentioned yet)",
+        "Focus on cost/pricing (not mentioned yet)",
+        "Focus on ease of use (not mentioned yet)"
+      ]
+    }
+  ]
+}

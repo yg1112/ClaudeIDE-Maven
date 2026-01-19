@@ -1,0 +1,52 @@
+{
+  "timestamp": "2026-01-18T17:23:24.177654",
+  "strategy": "Two-step Sniper approach",
+  "description": "Step 1: Provide value without product mention. Step 2: Share link when asked.",
+  "replies": [
+    {
+      "post_id": "1qdgrob",
+      "post_title": "Introducing FreeVoice Reader for Apple Silicon \u2013 Your Voice, Instantly Typed",
+      "step1_reply": "I've been using local transcription for a while and the speed difference from cloud services is huge.\n\nFor context: cloud services like Otter process on their servers, so you're waiting for upload + processing. With optimized local models on M1/M2, a 1-hour meeting goes from ~50 minutes (most apps) to about 6 minutes.\n\nKey benefits I found:\n- Privacy: nothing leaves your Mac\n- Speed: Whisper Large V3 Turbo optimized for Apple Silicon\n- Cost: one-time vs subscription\n\nThe tradeoff is you need decent hardware (M1/M2 or better), but if you have that, it's worth exploring.",
+      "triggers": [
+        "what app",
+        "which app",
+        "what tool",
+        "link?",
+        "can you share",
+        "what do you use",
+        "dm me"
+      ],
+      "step2_reply": "Sure\\! I'll DM you to avoid being promotional here.\n\nQuick summary: it's a Mac app using Whisper Large V3 running locally. Happy to share more details privately."
+    },
+    {
+      "post_id": "1pwbeln",
+      "post_title": "Ottex AI - native macOS app to type with your voice (Free with BYOK)",
+      "step1_reply": "I've been using local transcription for a while and the speed difference from cloud services is huge.\n\nFor context: cloud services like Otter process on their servers, so you're waiting for upload + processing. With optimized local models on M1/M2, a 1-hour meeting goes from ~50 minutes (most apps) to about 6 minutes.\n\nKey benefits I found:\n- Privacy: nothing leaves your Mac\n- Speed: Whisper Large V3 Turbo optimized for Apple Silicon\n- Cost: one-time vs subscription\n\nThe tradeoff is you need decent hardware (M1/M2 or better), but if you have that, it's worth exploring.",
+      "triggers": [
+        "what app",
+        "which app",
+        "what tool",
+        "link?",
+        "can you share",
+        "what do you use",
+        "dm me"
+      ],
+      "step2_reply": "Sure\\! I'll DM you to avoid being promotional here.\n\nQuick summary: it's a Mac app using Whisper Large V3 running locally. Happy to share more details privately."
+    },
+    {
+      "post_id": "1pzlipi",
+      "post_title": "[Launch] Yes, another WisprFlow alternative called Pipit (but completely free)",
+      "step1_reply": "I've been using local transcription for a while and the speed difference from cloud services is huge.\n\nFor context: cloud services like Otter process on their servers, so you're waiting for upload + processing. With optimized local models on M1/M2, a 1-hour meeting goes from ~50 minutes (most apps) to about 6 minutes.\n\nKey benefits I found:\n- Privacy: nothing leaves your Mac\n- Speed: Whisper Large V3 Turbo optimized for Apple Silicon\n- Cost: one-time vs subscription\n\nThe tradeoff is you need decent hardware (M1/M2 or better), but if you have that, it's worth exploring.",
+      "triggers": [
+        "what app",
+        "which app",
+        "what tool",
+        "link?",
+        "can you share",
+        "what do you use",
+        "dm me"
+      ],
+      "step2_reply": "Sure\\! I'll DM you to avoid being promotional here.\n\nQuick summary: it's a Mac app using Whisper Large V3 running locally. Happy to share more details privately."
+    }
+  ]
+}

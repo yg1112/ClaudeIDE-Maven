@@ -1,0 +1,76 @@
+# Product Configuration
+# Fill this with your product details
+
+product:
+  name: "Your Product Name"
+  tagline: "One-line description"
+  website: "https://yourproduct.com"
+  github: ""  # Optional: GitHub repo path for reading docs
+  
+  # What problem does it solve?
+  pain_points_solved:
+    - "Pain point 1"
+    - "Pain point 2"
+    - "Pain point 3"
+  
+  # Key features
+  features:
+    - name: "Feature 1"
+      description: "What it does"
+      differentiator: "Why it's better than competitors"
+    - name: "Feature 2"
+      description: "What it does"
+      differentiator: "Why it's better than competitors"
+  
+  # Pricing
+  pricing:
+    model: "freemium"  # freemium, subscription, one-time, free
+    free_tier: true
+    price_range: "$0 - $X/month"
+  
+  # Target audience
+  target_audience:
+    - "Podcasters"
+    - "Content creators"
+    - "Researchers"
+    - "Students"
+  
+  # Competitors
+  competitors:
+    - name: "Competitor 1"
+      weaknesses:
+        - "Expensive"
+        - "Bad accuracy"
+    - name: "Competitor 2"
+      weaknesses:
+        - "No free tier"
+
+# Search keywords for finding relevant posts
+search_keywords:
+  primary:
+    - "transcription"
+    - "speech to text"
+    - "voice to text"
+  pain_points:
+    - "transcription expensive"
+    - "otter.ai alternative"
+    - "free transcription"
+    - "accurate transcription"
+  competitor_mentions:
+    - "otter.ai"
+    - "descript"
+    - "rev.com"
+
+# Subreddits to target
+target_subreddits:
+  primary:  # Main subreddits for your product
+    - "transcription"
+    - "podcasting"
+    - "productivity"
+  secondary:  # Related subreddits
+    - "Entrepreneur"
+    - "SideProject"
+    - "InternetIsBeautiful"
+  karma_building:  # For building karma (answer tech questions)
+    - "learnprogramming"
+    - "webdev"

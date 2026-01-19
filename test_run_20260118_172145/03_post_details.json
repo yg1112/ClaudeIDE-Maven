@@ -1,0 +1,143 @@
+{
+  "timestamp": "2026-01-18T17:22:43.123024",
+  "analyzed_posts": 3,
+  "details": [
+    {
+      "post": {
+        "id": "1qdgrob",
+        "title": "Introducing FreeVoice Reader for Apple Silicon \u2013 Your Voice, Instantly Typed",
+        "body": "I'm the developer of Freevoice Reader. \n\nI'm making a limited number of lifetime access codes available.\n\nFreevoice Reader is a Mac app (Apple Silicon only) that does \n- Instant dictation\n- Read selected text aloud in natural voices\n- Follow commands and edit text using AI\n\nThere are a few other experimental features: \n- Voice Cloning\n- Subtitle generation \n- Meeting transcription and diarization\n\nLifetime access unlocks all features including experimental features and all future features. You can use the code on up to 3 Macs.\n\nIf you'd like a lifetime code:\n\nUpvote and leave a comment\n\nI'll reply with a code within the next day. Codes are shared privately and not posted publicly. \n\nLink: https://freevoicereader.com/mac-app\n\nWhat makes FreeVoice Reader different compared to other dictation apps:\n- Most dictation apps available for MacOS fail to leverage the Apple Silicon architecture as they support even the earlier chips. I built this app specifically for Apple Silicon chips (M1 and later) and the results are impressive. \n\nWhat models do we use: \nWe use the best open source models. \n- For dictation, you can choose between Parakeet V3 (25 languages), Parakeet V2, Whisper (99+ languages)\n- Reading aloud: KokoroTTS and a few others\n- Text editing: Apple Intelligence which can be swapped for Qwen 2.5 and a few other models\n\nHappy to answer any questions. Thanks for taking a look!\n\n",
+        "url": "https://reddit.com/r/macapps/comments/1qdgrob/introducing_freevoice_reader_for_apple_silicon/",
+        "score": 261,
+        "num_comments": 471,
+        "created_utc": 1768475412.0,
+        "author": "Impressive-Sir9633",
+        "subreddit": "macapps"
+      },
+      "total_comments": 465,
+      "mentioned_tools": [
+        "rev",
+        "freevoice",
+        "whisper"
+      ],
+      "top_comments": [
+        {
+          "author": "Impressive-Sir9633",
+          "body": "Sorry for any inconvenience.\n\nThanks for your interest in FreeVoiceReader. We ran out of the codes that we created multiple times and Reddit won't even let me send individual messages anymore. We are ",
+          "score": 17
+        },
+        {
+          "author": "genius1soum",
+          "body": "Yeah 160+ comments so lifetime code is probably gone by now.\n\nBut this looks like a Spokenly alternative.",
+          "score": 10
+        },
+        {
+          "author": "zenatron36",
+          "body": "It\u2019s another vibe coded dictation app. As if there aren\u2019t 100 of them already",
+          "score": 4
+        },
+        {
+          "author": "gopietz",
+          "body": "Dictation app number 372. I have been waiting for this one.",
+          "score": 2
+        },
+        {
+          "author": "Raffiodabashian",
+          "body": "I'll take a lifetime code",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "post": {
+        "id": "1pwbeln",
+        "title": "Ottex AI - native macOS app to type with your voice (Free with BYOK)",
+        "body": "// Note: All the text below is typed with my voice.\n\nHey everyone!\n\nI built a free macOS app to type with your voice.\n\nWould love to hear what you think, especially if you have used Wispr Flow or similar tools.\n\n## Meet Ottex\n\nOttex AI is a native macOS app to type with your voice anywhere on your Mac.\n\nI'm a big fan of Wispr Flow and Raycast macOS applications, especially AI shortcuts in Raycast. At some point, I realized that LLMs are already freakingly good with voice-to-text handling, and you don't need anymore to raise $80 million to create a voice-to-text application.\n\nI decided to build Ottex AI to give people freedom to work with any AI model and just have fun with modern AI technologies without paying multiple subscription fees for features that cost pennies in API requests.\n\n## Key Features\n\n1. Global macOS voice-to-text in any app that produces clean and clear text free of filler words, repetitions, and rambling. Dump your stream of consciousness \u2014 get coherent and clear text.\n2. Raycast omnibar with AI shortcuts. Select text and execute LLM prompts on top of selected text. My favorite shortcuts are \"fix grammar\", \"translate to {language}\" as an argument, and \"improve writing\". You can create custom shortcuts if you want.\n3. Ottex AI is dirt cheap. It's free for personal use and you pay only for OpenRouter API requests. It's basically a BYOK (Bring Your Own Key) model, so for me as a heavy user, it costs something like $3 per month, and casual users like my wife have something around 50 cents of voice transcriptions per month.\n4. Zero logging, privacy first. Your API requests, your audio files, and your AI shortcut inputs are sent directly to OpenRouter. We don't see them, we don't touch them, we don't store anything, we don't train models on top of your data, and we don't even have servers to handle this lol. So complete privacy if you trust OpenRouter.\n\nOttex connects directly to OpenRouter and fetches models from there, so you have complete flexibility between the models you choose for different features. For example:\n\n- For voice, you can swap between efficient models like Gemini 3.0 Flash, Gemini 2.5 Flash, or Mistral Voxtral and upgrade to newer models whenever they come to OpenRouter.\n- For AI shortcuts, you are basically free to use any model available on OpenRouter (including free models) if it supports structured outputs.\n\nOnce more, the application is free. Try it out, let me know if you run into any bugs or have feature ideas.\n\nThank you and have a nice day!\n\n// Download the app from the website: [https://ottex.ai](https://ottex.ai)\n",
+        "url": "https://reddit.com/r/macapps/comments/1pwbeln/ottex_ai_native_macos_app_to_type_with_your_voice/",
+        "score": 11,
+        "num_comments": 40,
+        "created_utc": 1766774159.0,
+        "author": "ksanderer",
+        "subreddit": "macapps"
+      },
+      "total_comments": 40,
+      "mentioned_tools": [
+        "whisper",
+        "rev"
+      ],
+      "top_comments": [
+        {
+          "author": "Turbulent-Apple2911",
+          "body": "Hey, this looks really good! I was just wondering if you had any plans to implement an iOS version of the app. I know it's probably a little too early to ask, but having an iOS version would be great ",
+          "score": 3
+        },
+        {
+          "author": "[deleted]",
+          "body": "[removed]",
+          "score": 2
+        },
+        {
+          "author": "tobsn",
+          "body": "https://wisprflow.ai ?",
+          "score": 2
+        },
+        {
+          "author": "Markooo_M",
+          "body": "Great UX! Two things, and I think it's going to be spot on... It would be a lot better to have a \"hold and speak\" key instead of a toggle to start and stop speaking. Second, have an option to mute mus",
+          "score": 2
+        },
+        {
+          "author": "dzigg",
+          "body": "This is really cool. I would love if there is a window version of this because quite frankly in windows there's not a good dictation app currently that supports BYOK.",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "post": {
+        "id": "1pzlipi",
+        "title": "[Launch] Yes, another WisprFlow alternative called Pipit (but completely free)",
+        "body": "I started this project about a year ago and have been using it myself for the past few months. Built to be fast, invisible, and actually free.\n\nWhat's different?\n\nIt's a joy to use. Strong focus on UX. A lot of attention went into the hotkey behavior and workflow. Each action should save you a couple fractions of a second, which adds up.\n\nYou have access to your clipboard and voice transcriptions right from the menu bar. Most people don't use a clipboard manager, combining the two made sense to me.\n\nThere's also an adaptive self-learning dictionary, quick actions, and a bunch of small UX details that you probably won't notice but make the whole thing feel invisible. Formatting per app all happens seamlessly in the background and costs just \\~25 cents per month with your own api key.\n\nFree forever, no signups, no nonsense. I'll be continually updating it as better models release. Open source planned, but it is notarized and signed by Apple for now and works completely offline. Give it a shot!\n\n[https://www.pipitvoice.com/](https://www.pipitvoice.com/)\n\nhttps://preview.redd.it/greb3emn4dag1.png?width=1536&format=png&auto=webp&s=8684c09c1b71ce0c5e46dae94a2db8cf3976e38b\n\n",
+        "url": "https://reddit.com/r/macapps/comments/1pzlipi/launch_yes_another_wisprflow_alternative_called/",
+        "score": 33,
+        "num_comments": 79,
+        "created_utc": 1767109819.0,
+        "author": "Dragxt",
+        "subreddit": "macapps"
+      },
+      "total_comments": 78,
+      "mentioned_tools": [
+        "rev",
+        "pipit",
+        "whisper"
+      ],
+      "top_comments": [
+        {
+          "author": "minobi",
+          "body": "UI seems to be pretty sleek. I'm going to check it out anyway.",
+          "score": 2
+        },
+        {
+          "author": "_waffles3",
+          "body": "Looks good! Will give it a try",
+          "score": 2
+        },
+        {
+          "author": "themank945",
+          "body": "This looks NICE! What local models are you using and can we choose which ones to use? I have been loving Parakeet V2 and Apple Speech Analyzer when using Spokenly. \n\nGreat job!",
+          "score": 2
+        },
+        {
+          "author": "The2ndEmperor",
+          "body": "Nice work! Tried it out, very nice indeed. Thanks for your work!",
+          "score": 2
+        },
+        {
+          "author": "maddada_",
+          "body": "Trying it out, thanks for this!",
+          "score": 2
+        }
+      ]
+    }
+  ]
+}
